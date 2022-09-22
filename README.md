@@ -1,8 +1,8 @@
 # Hello, I'm Alister Huysmans !
 
-## my profile in a few points
+## My profile in a few points :
 
-- I'm currently learning Web Development
+- Currently learning Web Development
 - Looking forward to build my first interfaces and apps
 - The tech I want to master : JavaScript, React, PHP, MySQL
 - How to reach me: alister.huysmans@gmail.com
