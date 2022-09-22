@@ -2,10 +2,10 @@
 
 ## my profile in a few points
 
-- Hi, I’m @alisterhuysmans
-- I’m interested in Web Development, specifically in Front End
-- I’m currently learning the fundamentals of JavaScript
-- How to reach me : alister.huysmans@gmail.com
+- I'm currently learning Web Development
+- Looking forward to build my first interfaces and apps
+- The tech i want to master : JavaScript, React, PHP, MySQL
+- How to reach me: alister.huysmans@gmail.com
 
 <!---
 alisterhuysmans/alisterhuysmans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
