@@ -4,7 +4,7 @@
 
 - I'm currently learning Web Development
 - Looking forward to build my first interfaces and apps
-- The tech i want to master : JavaScript, React, PHP, MySQL
+- The tech I want to master : JavaScript, React, PHP, MySQL
 - How to reach me: alister.huysmans@gmail.com
 
 <!---
