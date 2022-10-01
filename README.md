@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alister Huysmans</h1>
+<h1 align="center">Hi, I'm Alister Huysmans</h1>
 <h3 align="center">A passionate Front-end developer from Belgium</h3>
 
 <h3 align="left">Currently learning:</h3>
