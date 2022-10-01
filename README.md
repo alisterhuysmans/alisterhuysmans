@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alister Huysmans</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+<h3 align="center">A passionate Front-end developer from Belgium</h3>
 
 - I’m currently learning **HTML, CSS, JavaScript, PHP, SQL**
 
