@@ -1,36 +1,53 @@
-<h1 align="center">Hi, I'm Alister Huysmans</h1>
-<h3 align="center">A passionate Front-end developer from Belgium</h3>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=barlow&size=28&duration=4000&pause=500&center=true&width=435&lines=Alister+Huysmans;Front-end+Developer)](https://git.io/typing-svg)
 
-<h3 align="left">Currently learning:</h3>
+</div>
+
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  
+### :man_technologist: I'm Alister Huysmans and I'm interested in programming, building web interfaces & web apps
+Currently learning and practicing courses
+
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+
+<br>
+<h2>Social Networks</h2>
+
+[![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
+
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+
+[2]: https://www.linkedin.com/in/alisterhuysmans/
+[3]: https://www.instagram.com/alister.huysmans/
+
+<br>
+<br>
+
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+
+<br>
+
+<h2>Working on those Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,vscode,html,css,sass,bootstrap,js,ts,react,angular" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,python,php,laravel,mysql,docker,ps,pr,figma" />
+  </a>
 </p>
 
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
-<br/>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisterhuysmans&show_icons=true&locale=en" alt="alisterhuysmans" /></p>
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/aliserhuysmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aliserhuysmans" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alisterhuysmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisterhuysmans" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alisterhuysmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alisterhuysmans" height="30" width="40" /></a>
-<a href="https://instagram.com/alisterhuysmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisterhuysmans" height="30" width="40" /></a>
-</p>
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="left">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=alisterhuysmans&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisterhuysmans&hide=html&layout=compact&theme=highcontrast" />
+ </div>
