@@ -1,12 +1,12 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=barlow&size=28&duration=4000&pause=500&center=true&width=435&lines=Alister+Huysmans;Front-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=barlow&size=32&duration=4000&pause=500&center=true&width=435&lines=Alister+Huysmans;Front-end+Developer)](https://git.io/typing-svg)
 
 </div>
 
 <p align="left"> 
   
-### :man_technologist: I'm Alister Huysmans and I'm interested in programming, building web interfaces & web apps
+### :man_technologist: I'm interested in programming, building web interfaces & web apps
 Currently learning and practicing courses
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
@@ -33,12 +33,12 @@ Currently learning and practicing courses
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,vscode,html,css,sass,bootstrap,js,ts,react,angular" />
+    <img src="https://skillicons.dev/icons?i=git,bash,vscode,html,css,sass,bootstrap,js,react,nodejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,python,php,laravel,mysql,docker,ps,pr,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,python,php,laravel,mysql,docker,ps,pr,figma" />
   </a>
 </p>
 
