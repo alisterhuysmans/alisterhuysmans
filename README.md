@@ -6,7 +6,7 @@
 
 <p align="left"> 
   
-### :man_technologist: I'm interested in programming, building web interfaces & web apps
+### :man_technologist: I'm interested in programming, designing websites & building web apps
 Currently learning and practicing courses
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
