@@ -31,12 +31,12 @@ Currently learning and practicing courses
 
 <h2>Working on those Skills</h2>
 
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,vscode,html,css,sass,bootstrap,js,react,nextjs,nodejs" />
   </a>
 </p>
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,angular,python,php,laravel,mysql,docker,ps,figma" />
   </a>
