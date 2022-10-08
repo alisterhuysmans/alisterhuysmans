@@ -33,7 +33,7 @@ Currently learning and practicing courses
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,vscode,html,css,sass,bootstrap,js,react,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,sass,bootstrap,js,react,nextjs,nodejs" />
   </a>
 </p>
 <p align="right">
