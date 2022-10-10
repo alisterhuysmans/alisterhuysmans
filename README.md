@@ -33,12 +33,12 @@ Currently learning and practicing courses
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,sass,bootstrap,js,react,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,sass,js,react,nodejs,expressjs,nextjs" />
   </a>
 </p>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,angular,python,php,laravel,mysql,docker,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,python,php,laravel,mysql,mongodb,docker,ps,figma" />
   </a>
 </p>
 
